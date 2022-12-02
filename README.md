@@ -16,5 +16,5 @@
 <br><br>
 <h2> Instalação</h2>
 
-<h3>Basta baixar todos os arquivos, executar o arquivo python INICIAL.PY</h3>
-<h4>Você deve ter o framework cherrypy instalado</h4>
+<h3>Basta baixar todos os arquivos, executar o arquivo HTML pag-html</h3>
+
